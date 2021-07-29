@@ -5,7 +5,7 @@ import MoviesList from "./MoviesList";
 function MoviesPage({ movies }) {
   return (
     <div>
-      <MoviesList movies={movies} />
+      {/* <MoviesList movies={movies} /> */}
     </div>
   );
 }
